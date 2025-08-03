@@ -20,13 +20,11 @@ Enter your question: রাজা কি আমাকে শাস্তি দ�
 
 
 --- Chatbot Response ---
-Original Query (bn): রাজা কি আমাকে শাস্তি দিতে পারেন?
+Original Query (en): can king punish me?
+Answer (English): 1. The King can punish you if you have committed a crime in accordance with the laws of the realm.
+Answer (Bengali): ১. যদি আপনি রাজ্যের আইন অনুযায়ী অপরাধ করেন, তাহলে রাজা আপনাকে শাস্তি দিতে পারেন।
+Answer (Norwegian): 1. Kongen kan straffe deg hvis du har begått en forbrytelse i samsvar med rikets lover.
 
-Answer (English): According to the Norwegian Constitution, the King cannot personally punish you. The authority to inflict punishment is reserved for the courts.
-
-Answer (Bengali): নরওয়েজিয়ান সংবিধান অনুসারে, রাজা ব্যক্তিগতভাবে আপনাকে শাস্তি দিতে পারেন না। শাস্তি দেওয়ার ক্ষমতা শুধুমাত্র আদালতের জন্য সংরক্ষিত।
-
-Answer (Norwegian): I henhold til den norske grunnloven kan kongen ikke personlig straffe deg. Myndigheten til å idømme straff er forbeholdt domstolene.
 
 This demo illustrates how the system seamlessly handles the multi-language flow, providing a clear and comprehensive answer based on the source document, and delivering it in all three supported languages.
 
