@@ -20,9 +20,13 @@ Enter your question: রাজা কি আমাকে শাস্তি দ�
 
 
 --- Chatbot Response ---
+
 Original Query (en): can king punish me?
+
 Answer (English): 1. The King can punish you if you have committed a crime in accordance with the laws of the realm.
+
 Answer (Bengali): ১. যদি আপনি রাজ্যের আইন অনুযায়ী অপরাধ করেন, তাহলে রাজা আপনাকে শাস্তি দিতে পারেন।
+
 Answer (Norwegian): 1. Kongen kan straffe deg hvis du har begått en forbrytelse i samsvar med rikets lover.
 
 
